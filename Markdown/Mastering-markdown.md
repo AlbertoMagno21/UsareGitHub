@@ -13,9 +13,9 @@ Markdown è una sintassi molto semplice e snella utilizzata per dare lo stile al
 <pre> parole in *italico* </pre>
 *italico*
 
-<pre>Puoi anche <span>[fare un link a Google!](http://google.com)</span>
+<pre>Puoi anche <span>[fare un link a Coindipity!](https://coindipity.com/)</span>
 </pre>
-[fare un link a Google!](http://google.com)
+[fare un link a Coindipity!](https://coindipity.com/)
 
 ### Liste
 
@@ -23,40 +23,26 @@ Markdown è una sintassi molto semplice e snella utilizzata per dare lo stile al
 1. Uno
 2. Due
 3. Tre </pre>
-
-1.
-2.
-3.
-
-<pre> lista puntata:
-* Incomincia la riga con un asterisco
-* Ed ancora un’alta riga </pre>
-
-In modo diverso,
-
-- I trattini funzionano altrettanto bene
-- E se una lista secondaria, inserisci due spazi davanti al trattino o all’asterisco:
-  - Come questo
-  - Oppure questo
-</pre>
-
-Potresti aver necessità di una lista numerata:
-
 1. Uno
 2. Due
 3. Tre
 
-Oppure di una lista puntata:
-
+<pre> lista puntata:
 * Incomincia la riga con un asterisco
+* Ed ancora un’alta riga </pre>
+Incomincia la riga con un asterisco
 * Ed ancora un’alta riga
 
-In modo diverso,
-
+<pre> In modo diverso,
 - I trattini funzionano altrettanto bene
 - E se una lista secondaria, inserisci due spazi davanti al trattino o all’asterisco:
   - Come questo
-  - Oppure questo
+    - Oppure questo
+</pre>
+- I trattini funzionano altrettanto bene
+- E se una lista secondaria, inserisci due spazi davanti al trattino o all’asterisco:
+  - Come questo
+    - Oppure questo
 
 ### Immagini
 
