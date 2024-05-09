@@ -28,18 +28,19 @@ Markdown è una sintassi molto semplice e snella utilizzata per dare lo stile al
 3. Tre
 
 <pre> lista puntata:
-* Incomincia la riga con un asterisco
+*Incomincia la riga con un asterisco
 * Ed ancora un’alta riga </pre>
-Incomincia la riga con un asterisco
+
+*Incomincia la riga con un asterisco
 * Ed ancora un’alta riga
 
 <pre> In modo diverso,
-- I trattini funzionano altrettanto bene
+I trattini funzionano altrettanto bene
 - E se una lista secondaria, inserisci due spazi davanti al trattino o all’asterisco:
   - Come questo
     - Oppure questo
 </pre>
-- I trattini funzionano altrettanto bene
+I trattini funzionano altrettanto bene
 - E se una lista secondaria, inserisci due spazi davanti al trattino o all’asterisco:
   - Come questo
     - Oppure questo
