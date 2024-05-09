@@ -10,9 +10,9 @@ Per maggiori informazioni consultare “[Writing on GitHub](https://help.github.
 
 ## Esempi:
 
-### Testo
+### Testo (<pre> testo qui in mezzo è scritto come appare in code </pre>)
 
-<pre> parole in **grassetto** </pre> **grassetto**
+<pre> parole in **grassetto** </pre>
 **grassetto**
 
 <pre> parole in *italico* </pre>
