@@ -34,28 +34,28 @@ Markdown è una sintassi molto semplice e snella utilizzata per dare lo stile al
 * Incomincia la riga con un asterisco
 * Ed ancora un’alta riga
 
-<pre> In modo diverso,
-I trattini funzionano altrettanto bene
+<pre>In modo diverso,
+- I trattini funzionano altrettanto bene
 - E se una lista secondaria, inserisci due spazi davanti al trattino o all’asterisco:
   - Come questo
     - Oppure questo
 </pre>
-I trattini funzionano altrettanto bene
+- I trattini funzionano altrettanto bene
 - E se una lista secondaria, inserisci due spazi davanti al trattino o all’asterisco:
   - Come questo
     - Oppure questo
 
 ### Immagini
 
-<pre>
+<pre> Se vuoi includere nel testo delle immagini dovrai fare in questo modo:
+![Immagine di Yaktocat](https://octodex.github.com/images/yaktocat.png) </pre>
 Se vuoi includere nel testo delle immagini dovrai fare in questo modo:
-
 ![Immagine di Yaktocat](https://octodex.github.com/images/yaktocat.png)
-</pre>
 
-Se vuoi includere nel testo delle immagini dovrai fare in questo modo:
+### Link all'interno della stessa pagina
 
-![Immagine di Yaktocat](https://octodex.github.com/images/yaktocat.png)
+<pre>[MARKDOWN DOJO](https://github.com/AlbertoMagno21/UsareGitHub/main/Markdown/Mastering-markdown.md#markdown-dojo) </pre>
+[MARKDOWN DOJO](https://github.com/AlbertoMagno21/UsareGitHub/main/Markdown/Mastering-markdown.md#markdown-dojo)
 
 ### Titoli e citazioni
 
