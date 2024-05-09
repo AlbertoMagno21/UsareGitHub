@@ -1,35 +1,24 @@
-<img class="aligncenter size-full wp-image-8747" alt="markdown" src="http://www.maffucci.it/wp-content/uploads/2013/08/markdown.jpg" width="640" height="108" />
+# MARKDOWN DOJO
 
-Markdown è una sintassi molto snella e semplice, viene utilizzata per dare lo stile al testo a tutte le forme di scrittura che possono essere utilizzate su GitHub.
-
-### Cosa imparerai:
-
-* In che modo il formato Markdown rende facile la modifica del testo in maniera collaborativa
-* In che modo Markdown differisce dai tradizionali approcci alla formattazione del testo
-* Come usare Markdown per formattare il testo
-* Come sfruttare il rendering automatico del Markdown di GitHub
-* Come applicare le estensioni Markdown offerte da GitHub
+Markdown è una sintassi molto semplice e snella utilizzata per dare lo stile al testo a tutte le forme di scrittura che possono essere utilizzate su GitHub.
 
 # Cos'è il Markdown?
 
 [Markdown](https://daringfireball.net/projects/markdown/) permette l’applicazione dello stile al testo che viene prodotto per documentare su web. E’ possibile controllare la modalità di presentazione del testo, la formattazione in grassetto o in corsivo, l'aggiunta di immagini e la creazione di elenchi e molto altro. Per lo più, Markdown è un testo puro normale con pochi caratteri non alfabetici, come # o * utilizzati come tag per assegnare lo stile al testo.
 
-Su GitHub puoi usare Markdown in diverse occasioni
-
-* [Gists](https://gist.github.com/)
-* Commenti  e Pull Requests
-* Files con estensione `.md` o `.markdown` 
-
 Per maggiori informazioni consultare “[Writing on GitHub](https://help.github.com/categories/writing-on-github/)” nella sezione *GitHub Help*.
 
-## Esempi
+## Esempi:
 
 ### Testo
 
-<pre>
-E’ molto semplice scrivere delle parole in **grassetto** ed altre parole in *italico* con Markdown.
-Puoi anche <span>[fare un link a Google!](http://google.com)</span>
+<pre> parole in **grassetto** </pre>
+**grassetto**
+<pre> parole in *italico* </pre>
+*italico*
+<pre>Puoi anche <span>[fare un link a Google!](http://google.com)</span>
 </pre>
+[fare un link a Google!](http://google.com)
 
 E’ molto semplice scrivere delle parole in **grassetto** ed altre parole in *italico* con Markdown. Puoi anche [fare un link a Google!](http://google.com)
 
