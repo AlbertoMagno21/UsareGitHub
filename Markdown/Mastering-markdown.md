@@ -1,16 +1,11 @@
 # MARKDOWN DOJO
 
 Markdown è una sintassi molto semplice e snella utilizzata per dare lo stile al testo a tutte le forme di scrittura che possono essere utilizzate su GitHub.
-
-# Cos'è il Markdown?
-
 [Markdown](https://daringfireball.net/projects/markdown/) permette l’applicazione dello stile al testo che viene prodotto per documentare su web. E’ possibile controllare la modalità di presentazione del testo, la formattazione in grassetto o in corsivo, l'aggiunta di immagini e la creazione di elenchi e molto altro. Per lo più, Markdown è un testo puro normale con pochi caratteri non alfabetici, come # o * utilizzati come tag per assegnare lo stile al testo.
-
-Per maggiori informazioni consultare “[Writing on GitHub](https://help.github.com/categories/writing-on-github/)” nella sezione *GitHub Help*.
 
 ## Esempi:
 
-### Testo (<pre>testo qui in mezzo è scritto come appare in code</pre>)
+### Testo
 
 <pre> parole in **grassetto** </pre>
 **grassetto**
@@ -24,17 +19,18 @@ Per maggiori informazioni consultare “[Writing on GitHub](https://help.github.
 
 ### Liste
 
-<pre>
-Potresti aver necessità di una lista numerata:
-
+<pre> lista numerata:
 1. Uno
 2. Due
-3. Tre
+3. Tre </pre>
 
-Oppure di una lista puntata:
+1.
+2.
+3.
 
+<pre> lista puntata:
 * Incomincia la riga con un asterisco
-* Ed ancora un’alta riga
+* Ed ancora un’alta riga </pre>
 
 In modo diverso,
 
