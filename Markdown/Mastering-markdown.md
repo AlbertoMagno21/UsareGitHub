@@ -28,10 +28,10 @@ Markdown è una sintassi molto semplice e snella utilizzata per dare lo stile al
 3. Tre
 
 <pre> lista puntata:
-*Incomincia la riga con un asterisco
+* Incomincia la riga con un asterisco
 * Ed ancora un’alta riga </pre>
 
-*Incomincia la riga con un asterisco
+* Incomincia la riga con un asterisco
 * Ed ancora un’alta riga
 
 <pre> In modo diverso,
