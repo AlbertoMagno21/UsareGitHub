@@ -8,42 +8,42 @@ Markdown è una sintassi molto semplice e snella utilizzata per dare lo stile al
 ### Testo
 
 <pre> parole in **grassetto** </pre>
-**grassetto**
+  **grassetto**
 
 <pre> parole in *italico* </pre>
-*italico*
+  *italico*
 
-<pre>Puoi anche <span>[fare un link a Coindipity!](https://coindipity.com/)</span>
+<pre> Puoi anche <span>[fare un link a Coindipity!](https://coindipity.com/)</span>
 </pre>
-[fare un link a Coindipity!](https://coindipity.com/)
+  [fare un link a Coindipity!](https://coindipity.com/)
 
 ### Liste
 
 <pre> lista numerata:
-1. Uno
-2. Due
-3. Tre </pre>
-1. Uno
-2. Due
-3. Tre
+  1. Uno
+  2. Due
+  3. Tre </pre>
+  1. Uno
+  2. Due
+  3. Tre
 
 <pre> lista puntata:
-* Incomincia la riga con un asterisco
-* Ed ancora un’alta riga </pre>
+  * Incomincia la riga con un asterisco
+  * Ed ancora un’alta riga </pre>
 
-* Incomincia la riga con un asterisco
-* Ed ancora un’alta riga
+  * Incomincia la riga con un asterisco
+  * Ed ancora un’alta riga
 
 <pre>In modo diverso,
-- I trattini funzionano altrettanto bene
-- E se una lista secondaria, inserisci due spazi davanti al trattino o all’asterisco:
-  - Come questo
-    - Oppure questo
+  - I trattini funzionano altrettanto bene
+  - E se una lista secondaria, inserisci due spazi davanti al trattino o all’asterisco:
+    - Come questo
+      - Oppure questo
 </pre>
-- I trattini funzionano altrettanto bene
-- E se una lista secondaria, inserisci due spazi davanti al trattino o all’asterisco:
-  - Come questo
-    - Oppure questo
+  - I trattini funzionano altrettanto bene
+  - E se una lista secondaria, inserisci due spazi davanti al trattino o all’asterisco:
+    - Come questo
+      - Oppure questo
 
 ### Immagini
 
@@ -54,8 +54,8 @@ Se vuoi includere nel testo delle immagini dovrai fare in questo modo:
 
 ### Link all'interno della stessa pagina
 
-<pre>[MARKDOWN DOJO](https://github.com/AlbertoMagno21/UsareGitHub/main/Markdown/Mastering-markdown.md#markdown-dojo) </pre>
-[MARKDOWN DOJO](https://github.com/AlbertoMagno21/UsareGitHub/main/Markdown/Mastering-markdown.md#markdown-dojo)
+<pre> [MARKDOWN DOJO](https://github.com/AlbertoMagno21/UsareGitHub/blob/master/Markdown/Mastering-markdown.md#markdown-dojo) </pre>
+  [MARKDOWN DOJO](https://github.com/AlbertoMagno21/UsareGitHub/blob/master/Markdown/Mastering-markdown.md#markdown-dojo)
 
 ### Titoli e citazioni
 
